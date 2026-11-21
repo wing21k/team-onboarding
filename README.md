@@ -9,5 +9,5 @@
 
 문서관리  : 서강성
 
-담당자: 김담당 (team@example.com)
+담당자: 김담당 (team@example.com) **
 
